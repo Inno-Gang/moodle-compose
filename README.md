@@ -11,7 +11,7 @@ configuration questions.
 
 ## Usage
 1. Install [gum](https://github.com/charmbracelet/gum#installation)
-2. Run script
+2. Run script `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Inno-Gang/moodle-compose/main/moodle-compose.sh)"`
 3. Use generated `docker-compose.yaml` to run Moodle
 
 ## Credits
